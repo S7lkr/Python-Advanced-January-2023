@@ -1,0 +1,3 @@
+Hello world!
+This is SoftUni bro!
+We are currently in the Python Advanced module.
